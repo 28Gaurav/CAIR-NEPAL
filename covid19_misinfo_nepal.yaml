@@ -9,7 +9,7 @@ prefixes:
   schema: http://schema.org/
   linkml: http://w3id.org/linkml/
   cido: http://purl.obolibrary.org/obo/cido.owl#
-  covoc: http://bioportal.bioontology.org/ontologies/covoc#
+  covoc: https://raw.githubusercontent.com/EBISPOT/covoc/master/covoc.owl
 imports:
   - linkml:types
   - cido
