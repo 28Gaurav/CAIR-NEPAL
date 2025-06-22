@@ -1,6 +1,3 @@
-```yaml
-%YAML 1.1
----
 id: http://cair-nepal.org/covid19-misinfo-nepal
 name: COVID19MisinfoNepal
 description: An ontology for modeling COVID-19 misinformation in Nepal, capturing claims, categories, sources, and relationships for knowledge graph construction.
